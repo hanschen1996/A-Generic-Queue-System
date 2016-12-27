@@ -1,4 +1,4 @@
-# A-Generic-Queue-System
-a generic queue system where users can organize an event and set up a queue for service
+# First iOS App
+iOS App that shows "hello, world!"
 
 # This is a heading!
