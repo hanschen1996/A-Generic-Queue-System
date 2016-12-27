@@ -31,6 +31,7 @@ class ViewController: UIViewController {
         background.isHidden = false
         titleImage.isHidden = false
         welcomeButton.isHidden = true
+        print("hello world")
         
     }
 
